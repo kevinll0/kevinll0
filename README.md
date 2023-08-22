@@ -2,7 +2,7 @@
 I'm a third-year student at the University of El Salvador pursuing a Computer Science and Engineering degree 💻
 
 ## Skills
-- 👨‍💻 JavaScript
+- 👨‍💻 JavaScript, Typescript
 - ⚙️ React, Node, Express, Next
 - 👁️ SASS, Styled Components, TailwindCSS
 - 💽 MySQL, SQL
