@@ -4,7 +4,7 @@ I'm a third-year student at the University of El Salvador pursuing a Computer Sc
 ## Skills
 - 👨‍💻 JavaScript
 - ⚙️ React, Node, Express, Next
-- 👁️ SASS, CSS, Styled Components
+- 👁️ SASS, Styled Components, TailwindCSS
 - 💽 MySQL, SQL
 
 ## Contact
